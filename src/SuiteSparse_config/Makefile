@@ -2,7 +2,7 @@
 # SuiteSparse_config Makefile
 #-------------------------------------------------------------------------------
 
-VERSION = 4.2.1
+VERSION = 5.6.0
 
 PKG_CPPFLAGS = -DNTIMER
 
